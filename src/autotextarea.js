@@ -47,6 +47,7 @@
           function _resize(){
             //获取textarea的内容，并把换行符替换为br标签
             var _text = _textarea.val();
+            //(因为单独一行只有br标签的话浏览器是不会换行的，所以要加上z字符)
             _text = _text.replace(/\n/g, '<br>') + "z";
             //把内容复制进隐藏的div里面
             _div.html(_text);
