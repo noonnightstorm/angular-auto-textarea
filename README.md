@@ -1,3 +1,7 @@
+# Description
+
+it can auto resize which depend on textarea's content
+
 # Install
 
 bower install angular-autotextarea
