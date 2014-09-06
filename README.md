@@ -25,5 +25,5 @@ angular.module('yourApp', [ui.autotextarea'])
 #Params
 
 width : the width of the textarea <br />
-height : the width of the height <br />
+height : the height of the textarea <br />
 on-keydown : the callback of keydown <br />
