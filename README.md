@@ -8,7 +8,9 @@ jquery
 
 #Demo
 
-'<auto-textarea></auto-textarea>'
+```javascript
+<auto-textarea></auto-textarea>
+```
 
 #Params
 
