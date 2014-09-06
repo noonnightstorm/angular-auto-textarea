@@ -1,19 +1,25 @@
 # Install
 
-bower install angular-autotextarea
+### bower install angular-autotextarea
 
 # Dependencies
 
-jquery
+### jquery
 
 #Demo
 
+### html
 ```javascript
 <auto-textarea></auto-textarea>
 ```
 
+### js
+```javascript
+angular.module('yourApp', [ui.autotextarea'])
+```
+
 #Params
 
-width : the width of the textarea
-height : the width of the height
-on-keydown : the callback of keydown 
+### width : the width of the textarea
+### height : the width of the height
+### on-keydown : the callback of keydown 
