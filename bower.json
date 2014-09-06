@@ -1,0 +1,27 @@
+{
+  "name": "angular-autotextarea",
+  "version": "0.0.0",
+  "authors": [
+    "noonnightstorm"
+  ],
+  "description": "No",
+  "main": "./src/autotextarea.js",
+  "dependencies": {
+    "angular": ">=1.2.0",
+    "jquery": ">=1.6.4"
+  },
+  "keywords": [
+    "angular-autotextarea",
+    "auto-textarea",
+    "textarea"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/noonnightstorm",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
