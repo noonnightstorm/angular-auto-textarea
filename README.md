@@ -13,12 +13,12 @@ jquery
 #Demo
 
 ### html
-```javascript
+```
 <auto-textarea></auto-textarea>
 ```
 
 ### js
-```javascript
+```
 angular.module('yourApp', [ui.autotextarea'])
 ```
 
