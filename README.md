@@ -19,7 +19,7 @@ jquery
 
 ### js
 ```javascript
-angular.module('yourApp', [ui.autotextarea'])
+angular.module('yourApp', ['ui.autotextarea'])
 ```
 
 #Params
